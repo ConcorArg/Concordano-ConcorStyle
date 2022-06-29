@@ -8,12 +8,12 @@
 #### *Logo
 
 
-## **COMO NACE EL ESPACIO
+## COMO NACE EL ESPACIO
 
 Nuestro sitio nace de la iniciativa de un grupo de jovenes profesionales que desean cumplir y hacer mas facil la vida de muchos de nosotros
 haciendo que tengamos un espacio integral, facil de manejar , donde podamos encontrar todo lo que necesitamos de manera simple y rapida.
 
-##  **QUE VAS A ENCONTRAR EN EL SITIO
+##  QUE VAS A ENCONTRAR EN EL SITIO
 
 En nuestro espacio vas a encontrar :
 
@@ -25,7 +25,7 @@ En nuestro espacio vas a encontrar :
 * Perfumes
 
 
-## **TIPOGRAFIAS Y PALETA DE COLORES
+## TIPOGRAFIAS Y PALETA DE COLORES
 
 Las tipografias y paletas de colores se definieron por los colores mas atractivo para el publico masculino, en base a estudios de mercado y neurocientificos sobre aquello mas atractivo seleccionado por los consumidores.
 
