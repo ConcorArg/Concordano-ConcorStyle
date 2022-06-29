@@ -1,6 +1,6 @@
 # Concordano-ConcorStyle
 
-## **CONTENIDO DE ESTE ARCHIVO**
+# **CONTENIDO DE ESTE ARCHIVO**
 
 #### Porque existimos
 #### Que vas a encontrar en el sitio
