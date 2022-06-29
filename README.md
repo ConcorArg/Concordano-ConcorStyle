@@ -2,10 +2,10 @@
 
 ## **CONTENIDO DE ESTE ARCHIVO**
 
-#### *Porque existimos
-#### *Que vas a encontrar en el sitio
-#### *Apartado tecnico Tipografia y Paleta de colores
-#### *Logo
+#### Porque existimos
+#### Que vas a encontrar en el sitio
+#### Apartado tecnico Tipografia y Paleta de colores
+#### Logo
 
 
 ## COMO NACE EL ESPACIO
