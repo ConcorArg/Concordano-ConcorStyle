@@ -47,5 +47,6 @@ Las tipografias y paletas de colores se definieron por los colores mas atractivo
 ## LOGO
 
 
-![ScreenShot](LogoSample.jpg)
+<!-- ![ScreenShot](LogoSample.jpg) -->
 
+***<align ="center">![ScreenShot](LogoSample.jpg) </h1>***
