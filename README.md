@@ -44,8 +44,8 @@ Las tipografias y paletas de colores se definieron por los colores mas atractivo
 * https://colorhunt.co/palette/2c36393f4e4fa27b5cdcd7c9
 
 
-## LOGO
-
+<!-- ## LOGO -->
+**<align ="center">## LOGO</h1>**
 
 <!-- ![ScreenShot](LogoSample.jpg) -->
 
