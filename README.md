@@ -1,4 +1,4 @@
-<h1 align ="center">___Concordano-ConcorStyle___</h1>
+<h1 align ="center"> ***Concordano-ConcorStyle*** </h1>
 
 ##  **CONTENIDO DE ESTE ARCHIVO**
 
