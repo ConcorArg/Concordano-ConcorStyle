@@ -1,4 +1,4 @@
-<h1 align ="center"> ***Concordano-ConcorStyle*** </h1>
+<h1 align ="center"> *** Concordano-ConcorStyle *** </h1>
 
 ##  **CONTENIDO DE ESTE ARCHIVO**
 
@@ -32,11 +32,11 @@ Las tipografias y paletas de colores se definieron por los colores mas atractivo
 
 ### TIPOGRAFIAS
 
-* Roboto
-* Open Sans
-* Lato
-* Montserrat
-* Oswald
+1. Roboto
+2. Open Sans
+3. Lato
+4. Montserrat
+5. Oswald
 
 ### PALETA DE COLORES
 
