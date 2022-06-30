@@ -1,5 +1,10 @@
-# Concordano-ConcorStyle
 <h1 align ="center">Project First Sprint</h1>
+- **Bold**
+- _italics_
+- ~~Strike through~~
+
+
+# Concordano-ConcorStyle
 
 ##  **CONTENIDO DE ESTE ARCHIVO**
 
