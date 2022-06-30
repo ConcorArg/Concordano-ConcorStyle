@@ -1,6 +1,4 @@
-<h1 align ="center">Projecto Primer Sprint</h1>
-
-# ___Concordano-ConcorStyle___
+<h1 align ="center">___Concordano-ConcorStyle___</h1>
 
 ##  **CONTENIDO DE ESTE ARCHIVO**
 
