@@ -9,7 +9,9 @@
 #### Apartado tecnico Tipografia y Paleta de colores
 #### Logo
 
+Link boceto figma: 
 
+https://www.figma.com/file/hBf3AexGt3TEmaDqAY0bXs/BOCETOS-PARA-ECOMMERCE?node-id=0%3A1
 ## COMO NACE EL ESPACIO
 
 Nuestro sitio nace de la iniciativa de un grupo de jovenes profesionales que desean cumplir y hacer mas facil la vida de muchos de nosotros
@@ -48,4 +50,6 @@ Las tipografias y paletas de colores se definieron por los colores mas atractivo
 **<h1 align ="center"> LOGO</h1>**
 
 ![ScreenShot](LogoSample.jpg)
+
+
 
